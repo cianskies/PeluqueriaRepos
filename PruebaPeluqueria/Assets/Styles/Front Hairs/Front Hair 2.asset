@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d193d4aa51b67c049b04231cb5337a7c, type: 3}
+  m_Name: Front Hair 2
+  m_EditorClassIdentifier: 
+  ID: 21
+  Name: Front Hair 2
+  Type: 1
+  Icon: {fileID: -1144695538, guid: 02e9a9650c7ade044bb2cddb2c892100, type: 3}
+  Info: A front hair covering the eyebrows

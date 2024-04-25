@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d193d4aa51b67c049b04231cb5337a7c, type: 3}
+  m_Name: Oval 1
+  m_EditorClassIdentifier: 
+  ID: 1
+  Name: Diamond Oval
+  Type: 0
+  Icon: {fileID: 576149599, guid: 325f35bb5ef705d49b6d28927c749141, type: 3}
+  Info: Diamond shaped face oval

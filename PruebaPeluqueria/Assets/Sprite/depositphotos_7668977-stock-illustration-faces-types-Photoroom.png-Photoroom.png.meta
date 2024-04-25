@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 325f35bb5ef705d49b6d28927c749141
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 349
+        width: 84
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5188db00f2b101a4881b95f190bdc817
+      internalID: 576149599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 349
+        width: 84
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d6366c9ed76aa4886c172c8321851d
+      internalID: -426638554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 349
+        width: 87
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baeb5d98f141954c9b8f77254d612f2
+      internalID: -683274193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 194
+        width: 83
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e3720ca71e54249b6e56d70efc9241
+      internalID: 1196952861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 194
+        width: 85
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7dc4124c879764d90f9e8d334b674d
+      internalID: 1833261492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 194
+        width: 84
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8724542255cd99944a4191a1caa4bca6
+      internalID: 1500612165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 38
+        width: 84
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74f7772af7a0040a2cd8d59319b624
+      internalID: 776479416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 38
+        width: 84
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d36fac65accf544aeb79346d055773
+      internalID: 2136176698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 37
+        width: 83
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298e466812638c4d8ae2d74e4995382
+      internalID: -1365307361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_0: 576149599
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_1: -1350073327
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_10: 1500612165
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_11: -1506322988
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_12: 776479416
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_13: -898815021
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_14: 2136176698
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_15: 435302704
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_16: -1365307361
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_17: -976822496
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_2: -426638554
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_3: -2016430376
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_4: -683274193
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_5: -1468181265
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_6: 1196952861
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_7: -935900485
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_8: 1833261492
+      depositphotos_7668977-stock-illustration-faces-types-Photoroom.png-Photoroom_9: -925224590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
